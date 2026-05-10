@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3d5a594d901de8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "85be708977711b38",
+        "type": "tabs",
+        "dimension": 47.20812182741117,
+        "children": [
+          {
+            "id": "ffbef71eab275f68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-dashboard/dashboard.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard.md"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dddcd8ce31f6da18",
+        "type": "tabs",
+        "dimension": 52.79187817258884,
+        "children": [
+          {
+            "id": "16a4fe5c3bc95bbc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5f401998a123dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e4702ee8a19bef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f41951fbae3f0609",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "80a0c138d9b732b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "6ba5d8a864811a9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9575be65f566b92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10fc9fee673c762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f511aa2be69ae3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "ee91bdc38bfb7454",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e4d98f93ef02e097",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ab34112799d78d4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "923065b6971a98d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "f41951fbae3f0609",
+  "lastOpenFiles": [
+    "00-dashboard/dashboard.md.md",
+    "03-méritos/documentaciónPendiente.md.md",
+    "03-méritos/titulaciones.md.md",
+    "03-méritos/empresas.md.md",
+    "02-test/estadísticas.md.md",
+    "02-test/erroresFrecuentes.md.md",
+    "01-estudio/legislación.md.md",
+    "01-estudio/hardware.md.md",
+    "01-estudio/bbdd.md.md",
+    "01-estudio/sistemas.md.md",
+    "01-estudio/seguridad.md.md",
+    "01-estudio/redes.md.md",
+    "00-dashboard/pendientes.md.md",
+    "00-dashboard/timeline.md.md",
+    "timeline.md",
+    "00-dashboard/pendientes.md",
+    "Bienvenido.md",
+    "99-archivo",
+    "07-recursos",
+    "06-simulacros",
+    "05-inglés",
+    "04-documentación",
+    "03-méritos",
+    "02-test",
+    "01-estudio",
+    "00-dashboard"
+  ]
+}
