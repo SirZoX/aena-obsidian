@@ -5,17 +5,24 @@
 - [x] Justificante descargado
 - [x] Cl@ve disponible
 - [x] Certificado digital disponible
-- [ ] Vida laboral descargada
+- [x] Vida laboral descargada
 - [ ] Carpeta documental organizada
-- [ ] Título TS DAI escaneado
+- [x] Título TS DAI escaneado
+
+## Estado administrativo
+- [x] Estrategia documental definida
+- [x] Modelos certificados preparados
+- [x] Empresas priorizadas
+- [x] Funciones alineadas revisadas
+- [ ] Escaneo JQCV pendiente
 
 ---
 
 # Prioridades actuales
 
 ## Administrativas
-- [ ] Descargar vida laboral
-- [ ] Escanear TS DAI
+- [x] Descargar vida laboral
+- [x] Escanear TS DAI
 - [ ] Organizar PDFs convocatoria
 
 ## Estudio

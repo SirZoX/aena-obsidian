@@ -6,7 +6,6 @@
       {
         "id": "85be708977711b38",
         "type": "tabs",
-        "dimension": 47.20812182741117,
         "children": [
           {
             "id": "ffbef71eab275f68",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-dashboard/dashboard.md.md",
+                "file": "02-test/plantillaSesionTest.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard.md"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dddcd8ce31f6da18",
-        "type": "tabs",
-        "dimension": 52.79187817258884,
-        "children": [
-          {
-            "id": "16a4fe5c3bc95bbc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "plantillaSesionTest.md"
             }
           }
         ]
@@ -59,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -198,33 +180,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f41951fbae3f0609",
+  "active": "ffbef71eab275f68",
   "lastOpenFiles": [
-    "00-dashboard/dashboard.md.md",
-    "03-méritos/documentaciónPendiente.md.md",
-    "03-méritos/titulaciones.md.md",
-    "03-méritos/empresas.md.md",
     "02-test/estadísticas.md.md",
-    "02-test/erroresFrecuentes.md.md",
-    "01-estudio/legislación.md.md",
-    "01-estudio/hardware.md.md",
-    "01-estudio/bbdd.md.md",
-    "01-estudio/sistemas.md.md",
-    "01-estudio/seguridad.md.md",
-    "01-estudio/redes.md.md",
-    "00-dashboard/pendientes.md.md",
+    "02-test/plantillaSesionTest.md.md",
+    "01-estudio/rutinaSemanal.md.md",
+    "01-estudio/ordenTemario.md.md",
+    "01-estudio/planEstudioGeneral.md.md",
+    "00-dashboard/dashboard.md.md",
+    "03-méritos/decisionFinalCertificados.md.md",
+    "03-méritos/modeloAyuntamiento.md.md",
+    "04-documentación/README.md.md",
+    "03-méritos/empresas.md.md",
+    "03-méritos/modeloServinform.md.md",
+    "03-méritos/SolicitudesPendientes.md.md",
+    "03-méritos/estadoDocumental.md.md",
+    "03-méritos/titulaciones.md.md",
     "00-dashboard/timeline.md.md",
-    "timeline.md",
-    "00-dashboard/pendientes.md",
-    "Bienvenido.md",
-    "99-archivo",
-    "07-recursos",
-    "06-simulacros",
-    "05-inglés",
-    "04-documentación",
-    "03-méritos",
-    "02-test",
-    "01-estudio",
-    "00-dashboard"
+    "04-documentación/Oficial/convocatoria - 00 Bases.pdf",
+    "04-documentación/Oficial/convocatoria - 01 Anexo I Bolsas.pdf",
+    "04-documentación/personal/6.- tests",
+    "04-documentación/personal/5.- temario",
+    "04-documentación/personal/4.- méritos",
+    "04-documentación/personal/3.- empresas",
+    "04-documentación/personal/2b - títulos/CFGS DAI.pdf",
+    "04-documentación/personal/2b - títulos",
+    "04-documentación/personal/2a - vida laboral/vida_laboral.pdf",
+    "04-documentación/personal/2a - vida laboral",
+    "00-dashboard/Sin título.md",
+    "03-méritos/modeloCertificadoFunciones.md.md",
+    "03-méritos/estrategiaJustificacion.md.md",
+    "03-méritos/experienciaDetallada.md.md",
+    "03-méritos/perfilTecnicoAena.md.md",
+    "03-méritos/funcionesObjetivoIIIJ05.md.md",
+    "03-méritos/estrategiaCertificados.md.md",
+    "05-inglés/InglésTécnico.md.md",
+    "02-test/erroresFrecuentes.md.md",
+    "01-estudio/redes.md.md",
+    "2026-05-11.md"
   ]
 }
