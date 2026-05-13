@@ -1,0 +1,11 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins
+.obsidian/workspace*
+
+# Documentos binarios (solo en local)
+*.pdf
+*.doc
+*.docx
+*.txt
